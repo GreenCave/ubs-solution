@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.michal"},{"l":"com.michal.model"}]
